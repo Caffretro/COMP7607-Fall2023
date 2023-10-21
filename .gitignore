@@ -2,3 +2,5 @@
 data/prep/test.out
 data/prep/test.in
 fine_tuned_roberta/
+
+.DS_Store
